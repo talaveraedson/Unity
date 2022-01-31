@@ -1,0 +1,15 @@
+C:\Users\Edson\Documents\Practice\Unity\bin\Debug\net6.0\Unity.exe
+C:\Users\Edson\Documents\Practice\Unity\bin\Debug\net6.0\Unity.deps.json
+C:\Users\Edson\Documents\Practice\Unity\bin\Debug\net6.0\Unity.runtimeconfig.json
+C:\Users\Edson\Documents\Practice\Unity\bin\Debug\net6.0\Unity.dll
+C:\Users\Edson\Documents\Practice\Unity\bin\Debug\net6.0\ref\Unity.dll
+C:\Users\Edson\Documents\Practice\Unity\bin\Debug\net6.0\Unity.pdb
+C:\Users\Edson\Documents\Practice\Unity\obj\Debug\net6.0\Unity.csproj.AssemblyReference.cache
+C:\Users\Edson\Documents\Practice\Unity\obj\Debug\net6.0\Unity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edson\Documents\Practice\Unity\obj\Debug\net6.0\Unity.AssemblyInfoInputs.cache
+C:\Users\Edson\Documents\Practice\Unity\obj\Debug\net6.0\Unity.AssemblyInfo.cs
+C:\Users\Edson\Documents\Practice\Unity\obj\Debug\net6.0\Unity.csproj.CoreCompileInputs.cache
+C:\Users\Edson\Documents\Practice\Unity\obj\Debug\net6.0\Unity.dll
+C:\Users\Edson\Documents\Practice\Unity\obj\Debug\net6.0\ref\Unity.dll
+C:\Users\Edson\Documents\Practice\Unity\obj\Debug\net6.0\Unity.pdb
+C:\Users\Edson\Documents\Practice\Unity\obj\Debug\net6.0\Unity.genruntimeconfig.cache
